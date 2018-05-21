@@ -1,3 +1,3 @@
 node{
-  echo 'branch master'
+  echo 'branch b1'
 }
